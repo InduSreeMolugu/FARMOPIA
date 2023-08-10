@@ -11,3 +11,4 @@ month, and year. Consequently, the system gives an advance forecast to the farme
 grows the speed of profit to them and consequently the country's economy. This application also 
 incorporates other modules like weather forecast, crop recommendation, fertilizer 
 recommendation, shop, chat portal, and guide are also implemented.
+Achieved Accuracy: 97%
